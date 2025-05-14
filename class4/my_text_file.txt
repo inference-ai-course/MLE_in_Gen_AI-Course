@@ -1,0 +1,9 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It enhances the capabilities of language models by providing them with access to external knowledge sources.
+
+Text embeddings are numerical representations of text that capture semantic meaning. They are used to measure similarity between pieces of text.
+
+Vector databases store these embeddings and allow for efficient similarity searches.
+
+LangChain is a framework that facilitates the development of applications powered by language models. It provides tools for integrating LLMs with external data sources.
+
+Evaluation metrics for RAG systems include precision, recall, and F1 score, which assess the quality of the generated responses.
