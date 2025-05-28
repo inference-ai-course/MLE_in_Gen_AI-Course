@@ -1,0 +1,35 @@
+## Career Summary
+
+I'm a Python developer with a strong foundation in backend development, frontend components, and scalable data workflows. I've worked in fast-paced environments like DoorDash and Knewton, where I contributed to production-grade systems, internal tools, and data infrastructure.
+
+## Experience Highlight: Angular at DoorDash
+
+At DoorDash, I contributed new Angular components to the customer-facing web app. These enhancements directly improved average user time-on-page by 2 minutes, reflecting more engaging UI/UX outcomes. My focus was not only on front-end polish but also aligning with backend services through REST APIs.
+
+## Team Collaboration & Agile
+
+I worked in a 6-person agile team, regularly collaborating with product managers to prioritize features that delivered measurable customer and business impact. One example was a new data pipeline I developed that led to a product idea that ultimately increased revenue by 6%.
+
+## Quality Engineering & Testing Mindset
+
+At both DoorDash and Knewton, I emphasized code quality. I implemented extensive test coverage on new features at DoorDash, which cut customer complaints by 23%. Earlier, at Knewton, I helped build a Selenium-based testing infrastructure that reduced monthly bug reports by 11%.
+
+## Data Pipelines & Product Insight
+
+One of my biggest technical wins was ingesting and transforming large datasets at DoorDash, which revealed user behavior patterns that led to product feature proposals. I built robust pipelines integrated with Redshift and S3 that powered internal dashboards and data tools.
+
+## Internship Impact
+
+At Knewton, I implemented REST APIs in Django to support internal analytics teams. My work helped reduce their reporting time by nearly a quarter. I also diagnosed a performance bottleneck in a database query system, making it significantly more efficient.
+
+## Communication & Stakeholder Alignment
+
+I frequently interfaced with internal stakeholders—PMs, designers, and data scientists—to clarify needs and align deliverables. I’ve been praised for turning ambiguous requirements into actionable tickets and efficient code.
+
+## Project: Cryptocurrency Tracker
+
+This solo project allowed me to showcase full-stack skills. I built API integrations for real-time crypto price data, used PostgreSQL for storage, and employed D3.js for dynamic chart visualizations. It demonstrated my ability to handle both backend logic and interactive frontends.
+
+## Fun Fact
+
+I maintain a personal GitHub where I contribute to open-source Python utilities and experiment with automation tools. I also occasionally write tutorials on using Django with cloud-native databases.
