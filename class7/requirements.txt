@@ -1,0 +1,51 @@
+# Week 5 SFT Resume AI Assistant - Requirements
+# Core dependencies for SFT training and Class 7 Alignment
+
+# PyTorch and ML frameworks
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+peft>=0.15.2
+accelerate>=0.20.0
+bitsandbytes>=0.39.0
+
+# Alignment and RL training (Class 7)
+trl>=0.7.0
+
+# LangChain and document processing
+langchain>=0.0.200
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+
+# OpenAI and environment
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Document processing
+PyPDF2>=3.0.0
+pypdf>=3.17.0
+
+# Vector stores and embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+
+# Audio processing (optional, for future voice features)
+torchaudio>=2.0.0
+
+# UI and visualization (optional)
+gradio>=3.35.0
+
+# Additional utilities
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# JSON and data handling
+jsonlines>=3.1.0
+tqdm>=4.64.0
+
+# Safety and compatibility
+packaging>=21.0
+typing-extensions>=4.0.0
