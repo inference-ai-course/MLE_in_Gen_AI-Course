@@ -1,0 +1,8 @@
+Research Summary: Model Context Protocol
+
+MCP is a standardized protocol for LLM-tool integration.
+Key benefits:
+- Standardized communication
+- Dynamic tool discovery
+- Modular architecture
+- Cross-platform compatibility
