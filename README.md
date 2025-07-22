@@ -124,10 +124,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+# or just follow the instruction from the jupyter Notebooks
 
-# Set up MCP servers (Week 1)
-cd mcp_servers
-npm install
 ```
 
 ### Environment Configuration
