@@ -1,4 +1,4 @@
-# Week 2 Support Guide – Understanding LLMs for Beginners (Grandma Edition)
+# Week 2 Support Guide – Understanding LLMs for Beginners
 
 Welcome to Week 2 of the Machine Learning Engineer course! If you're new to concepts like "Transformers," "Attention," or "Alignment," don’t worry — this guide is made just for you to understand from the big picture.
 
