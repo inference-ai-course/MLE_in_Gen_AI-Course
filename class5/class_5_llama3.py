@@ -322,7 +322,6 @@ class BalancedResumeTrainer:
             fp16=False,
             logging_steps=2,
             save_steps=20,
-            eval_strategy="no",
             save_total_limit=1,
             remove_unused_columns=False,
             dataloader_pin_memory=False,

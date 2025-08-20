@@ -3,11 +3,12 @@
 
 # PyTorch and ML frameworks
 torch>=2.0.0
-transformers>=4.30.0
-datasets>=2.12.0
-peft>=0.4.0
-accelerate>=0.20.0
-bitsandbytes>=0.39.0
+transformers==4.44.2
+datasets==2.20.0
+peft==0.12.0
+accelerate==0.34.2
+# bitsandbytes is optional and not supported on Apple Silicon; enable only on Linux/CUDA
+# bitsandbytes>=0.39.0
 
 # LangChain and document processing
 langchain>=0.0.200

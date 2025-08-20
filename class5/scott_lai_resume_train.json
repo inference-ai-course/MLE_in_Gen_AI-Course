@@ -1,0 +1,490 @@
+[
+  {
+    "prompt": "What is Scott Lai\u2019s profession?",
+    "completion": "AI Engineer and Data Scientist."
+  },
+  {
+    "prompt": "How many years of experience does Scott Lai have in generative AI and LLM solutions?",
+    "completion": "Over 5 years."
+  },
+  {
+    "prompt": "What infrastructures is Scott Lai skilled in designing and optimizing?",
+    "completion": "Scalable ML infrastructures using PyTorch, Hugging Face, and FastAPI on AWS."
+  },
+  {
+    "prompt": "What type of workflows is Scott Lai experienced in building?",
+    "completion": "End-to-end pipelines, scalable microservices, and ETL workflows."
+  },
+  {
+    "prompt": "What collaboration experience does Scott Lai have?",
+    "completion": "Proven track record in cross-functional collaboration and implementing ML and data engineering best practices."
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "Python"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "Rust"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "Node.js"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "HTML"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "CSS"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "JavaScript"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "R"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "Bash"
+  },
+  {
+    "prompt": "Which skill in Programming & Scripting does Scott Lai have?",
+    "completion": "GoLang"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "Machine Learning"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "Deep Learning"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "Reinforcement Learning"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "TensorFlow"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "PyTorch"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "Scikit Learn"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "Hugging Face"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "LangChain"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "LlamaIndex"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "Generative AI"
+  },
+  {
+    "prompt": "Which skill in Machine Learning & AI does Scott Lai have?",
+    "completion": "LangGraph"
+  },
+  {
+    "prompt": "Which skill in ML Infrastructure & Optimization does Scott Lai have?",
+    "completion": "LLM Serving Frameworks"
+  },
+  {
+    "prompt": "Which skill in ML Infrastructure & Optimization does Scott Lai have?",
+    "completion": "ETL Pipelines"
+  },
+  {
+    "prompt": "Which skill in ML Infrastructure & Optimization does Scott Lai have?",
+    "completion": "TensorRT"
+  },
+  {
+    "prompt": "Which skill in ML Infrastructure & Optimization does Scott Lai have?",
+    "completion": "Deepspeed"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "AWS"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "GCP"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "Azure"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "Docker"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "Kubernetes"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "Beanstalk"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "Terraform"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "S3"
+  },
+  {
+    "prompt": "Which skill in Cloud & DevOps does Scott Lai have?",
+    "completion": "EC2"
+  },
+  {
+    "prompt": "Which skill in Web & API Development does Scott Lai have?",
+    "completion": "Flask"
+  },
+  {
+    "prompt": "Which skill in Web & API Development does Scott Lai have?",
+    "completion": "Django"
+  },
+  {
+    "prompt": "Which skill in Web & API Development does Scott Lai have?",
+    "completion": "FastAPI"
+  },
+  {
+    "prompt": "Which skill in Web & API Development does Scott Lai have?",
+    "completion": "API Design"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Git"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "CI/CD"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Unit Testing"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Integration Testing"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "DataDog"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Tableau"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Spark"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Hadoop"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Stable Diffusion"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Claude code"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Midjourney"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "CodeWhisperer"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "OCR"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Cursor"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "taskMaster"
+  },
+  {
+    "prompt": "Which skill in Tools & Methodologies does Scott Lai have?",
+    "completion": "Computer Vision"
+  },
+  {
+    "prompt": "What did Scott Lai accomplish at BlueberryAI?",
+    "completion": "Developed production-ready AI-driven agents and advanced RAG models for legal analysis on AWS."
+  },
+  {
+    "prompt": "What did Scott Lai accomplish at BlueberryAI?",
+    "completion": "Engineered and optimized data pipelines using AWS and Databricks."
+  },
+  {
+    "prompt": "What did Scott Lai accomplish at BlueberryAI?",
+    "completion": "Collaborated with cross-functional teams to address legal and regulatory compliance."
+  },
+  {
+    "prompt": "What did Scott Lai accomplish at BlueberryAI?",
+    "completion": "Communicated model metrics clearly to stakeholders."
+  },
+  {
+    "prompt": "What did Scott Lai accomplish at BlueberryAI?",
+    "completion": "Enhanced AI models for legal identification by integrating real-time analysis features into client-facing apps."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Designed and deployed a production-grade RAG system using LangChain and AWS DynamoDB."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Improved search accuracy by 35% through RAG optimization."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Engineered an AI-driven document processing pipeline handling 10,000+ daily requests with 98% accuracy."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Applied OCR techniques with optimized Python solutions."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Optimized custom LLM models achieving 17% better performance than ChatGPT and Claude 3.5."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Implemented a distributed multi-agent LLM architecture with FastAPI and React."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Supported over 500 concurrent users with the system."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Constructed scalable ETL pipelines with Apache Spark and Airflow."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Processed over 2TB of data efficiently in ScholarAI pipelines."
+  },
+  {
+    "prompt": "What did Scott Lai contribute at ScholarAI?",
+    "completion": "Integrated CI/CD best practices into ML model operations."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Developed DeapLearning, an AI-powered tutoring platform with neural TTS."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Served over 120,000 K-12 learners with DeapLearning."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Directed a 13-person team across engineering, ML, and education."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Launched a workshop builder and rubric grader reducing teacher workload by 60%."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Architected a FERPA-secure LangChain-GPT-40 stack on AWS for 500+ concurrent users."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Enhanced customer satisfaction through RLHF tuning."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Expanded AP course offerings with reinforcement learning from human feedback."
+  },
+  {
+    "prompt": "What achievement did Scott Lai have at Ember Learning?",
+    "completion": "Formulated presentations that secured $1.2M in seed funding."
+  },
+  {
+    "prompt": "What did Scott Lai do at Duke University?",
+    "completion": "Collaborated with Hugging Face on LLM development using Rust Candle."
+  },
+  {
+    "prompt": "What did Scott Lai do at Duke University?",
+    "completion": "Managed AWS and Azure cloud research projects."
+  },
+  {
+    "prompt": "What did Scott Lai do at Duke University?",
+    "completion": "Led AWS Cloud Club with over 200 students."
+  },
+  {
+    "prompt": "What did Scott Lai do at Duke University?",
+    "completion": "Designed technical curricula for advanced AI and software development."
+  },
+  {
+    "prompt": "What did Scott Lai do at Duke University?",
+    "completion": "Provided mentorship to students in ML and scalable system design."
+  },
+  {
+    "prompt": "What was Scott Lai\u2019s contribution at Spigot, Inc.?",
+    "completion": "Developed AI tools using ML and DL to enhance company operations."
+  },
+  {
+    "prompt": "What was Scott Lai\u2019s contribution at Spigot, Inc.?",
+    "completion": "Conducted Big Data research with R for insights and trends."
+  },
+  {
+    "prompt": "What was Scott Lai\u2019s contribution at Spigot, Inc.?",
+    "completion": "Explored Blockchain applications in FinTech."
+  },
+  {
+    "prompt": "What was Scott Lai\u2019s contribution at Spigot, Inc.?",
+    "completion": "Enhanced transactional security with Blockchain solutions."
+  },
+  {
+    "prompt": "What was Scott Lai\u2019s contribution at Spigot, Inc.?",
+    "completion": "Collaborated on FinTech projects with scalable ML methodologies."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Led a data analysis team designing 12 quantitative trading algorithms."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Helped the firm earn $2M in China's A-share market with ML trading strategies."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Designed and deployed three data intelligence platforms for banking, real estate, and distressed assets."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Saved clients $50M in labor and efficiency costs across 7+ corporations."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Led simulation analysis of satellite remote sensing data for rocket and satellite launch."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Integrated satellite imagery, GIS, and mobility data with financial analytics."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Enhanced trading strategies with alternative data sources."
+  },
+  {
+    "prompt": "What did Scott Lai achieve at IUNISPACE?",
+    "completion": "Directed multidisciplinary teams in ML-driven solutions."
+  },
+  {
+    "prompt": "What accomplishment did Scott Lai make at J.P. Morgan?",
+    "completion": "Built predictive analytics models reducing loan default rates by 13%."
+  },
+  {
+    "prompt": "What accomplishment did Scott Lai make at J.P. Morgan?",
+    "completion": "Engineered scalable ETL pipelines and automated reporting systems."
+  },
+  {
+    "prompt": "What accomplishment did Scott Lai make at J.P. Morgan?",
+    "completion": "Implemented NLP solutions for transaction monitoring and fraud detection."
+  },
+  {
+    "prompt": "What accomplishment did Scott Lai make at J.P. Morgan?",
+    "completion": "Conducted analysis on customer behavior and transaction data."
+  },
+  {
+    "prompt": "What accomplishment did Scott Lai make at J.P. Morgan?",
+    "completion": "Presented technical findings to leadership with actionable recommendations."
+  },
+  {
+    "prompt": "What is Scott Lai\u2019s educational background?",
+    "completion": "Earned a Master of Science in Interdisciplinary Data Science from Duke University."
+  },
+  {
+    "prompt": "What is Scott Lai\u2019s educational background?",
+    "completion": "Studied Statistical Modeling, Data Engineering, NLP, Data Analysis in Cloud, and Machine Learning at Duke."
+  },
+  {
+    "prompt": "What is Scott Lai\u2019s educational background?",
+    "completion": "Earned a Bachelor of Science in Statistics and Economics from University of Wisconsin-Madison."
+  },
+  {
+    "prompt": "What is Scott Lai\u2019s educational background?",
+    "completion": "Studied Calculus, Linear Regression, Data Visualization, and Machine Learning in Python at UW-Madison."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Developed an AI-powered legal assistant for patent prosecution with Wilson Sonsini."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Built multi-agent system using FastAPI and LangChain."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Integrated USPTO data for claim drafting and prior art analysis."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Implemented backend handling 10,000+ documents daily with 98% accuracy."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Designed 4-panel interface mimicking attorney workflows."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Learned that overfitting to single-user workflows reduces adoption."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Recognized need for model tuning for domain-specific legal writing styles."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Identified trust deficit due to hallucinations and lack of explainability."
+  },
+  {
+    "prompt": "What is a lesson or contribution from Scott Lai\u2019s ScholarAI patent project?",
+    "completion": "Gained lessons in human-AI interface design and iteration from feedback."
+  },
+  {
+    "prompt": "Which cloud platforms is Scott Lai experienced with?",
+    "completion": "AWS, GCP, and Azure."
+  },
+  {
+    "prompt": "Which containerization and orchestration tools does Scott Lai use?",
+    "completion": "Docker and Kubernetes."
+  },
+  {
+    "prompt": "Which visualization tools has Scott Lai worked with?",
+    "completion": "Tableau and Hadoop ecosystem tools."
+  },
+  {
+    "prompt": "Which generative image models has Scott Lai used?",
+    "completion": "Stable Diffusion and Midjourney."
+  },
+  {
+    "prompt": "What programming languages does Scott Lai know besides Python?",
+    "completion": "Rust, Node.js, JavaScript, R, Bash, GoLang, HTML, and CSS."
+  }
+]

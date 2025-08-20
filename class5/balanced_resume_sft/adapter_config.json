@@ -20,17 +20,20 @@
   "megatron_core": "megatron.core",
   "modules_to_save": null,
   "peft_type": "LORA",
+  "qalora_group_size": 16,
   "r": 32,
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
     "o_proj",
     "k_proj",
-    "q_proj",
-    "v_proj"
+    "v_proj",
+    "q_proj"
   ],
+  "target_parameters": null,
   "task_type": "CAUSAL_LM",
   "trainable_token_indices": null,
   "use_dora": false,
+  "use_qalora": false,
   "use_rslora": false
 }
