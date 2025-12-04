@@ -1,0 +1,19 @@
+{
+  "model_name": "microsoft/Phi-3.5-mini-instruct",
+  "training_type": "lowlora",
+  "device": "cuda",
+  "dataset_size": 2000,
+  "num_epochs": 5,
+  "batch_size": 1,
+  "learning_rate": 0.0005,
+  "gradient_accumulation_steps": 4,
+  "effective_batch_size": 4,
+  "start_time": "2025-12-03 00:04:00",
+  "end_time": "2025-12-03 01:02:29",
+  "training_duration_seconds": 3508.96,
+  "training_duration_minutes": 58.48,
+  "training_duration_formatted": "58m 28s",
+  "final_loss": 1.5765,
+  "total_steps": 2500,
+  "samples_per_second": 0.57
+}

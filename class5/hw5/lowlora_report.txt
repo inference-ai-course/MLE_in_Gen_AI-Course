@@ -1,0 +1,70 @@
+
+================================================================================
+LOWLORA TRAINING REPORT (ULTRA-LOW RANK)
+================================================================================
+
+Model Configuration:
+-------------------
+Model Name: microsoft/Phi-3.5-mini-instruct
+Device: cuda
+Training Type: LowLoRA (Ultra-Low Rank LoRA)
+Rank: r=2-4 (minimal)
+
+Training Configuration:
+----------------------
+Dataset Size: 2000 examples
+Number of Epochs: 5
+Batch Size: 1
+Gradient Accumulation Steps: 4
+Effective Batch Size: 4
+Learning Rate: 0.0005
+
+Training Timeline:
+-----------------
+Start Time: 2025-12-03 00:04:00
+End Time: 2025-12-03 01:02:29
+Total Duration: 58m 28s (3508.96s)
+
+Training Metrics:
+----------------
+Final Training Loss: 1.5765
+Total Training Steps: 2500
+Throughput: 0.57 samples/second
+
+Performance Analysis:
+--------------------
+⚠️  LowLoRA training took longer than expected (> 15 minutes)
+⚠️  Model converged moderately (loss < 2.0)
+
+Model Output Location:
+----------------------
+Model Directory: ./lowlora_hw5_sft
+Metrics File: hw5_lowlora_metrics_report.json
+Report File: lowlora_report.txt
+
+LowLoRA Advantages:
+------------------
+- Ultra-low rank (r=2-4) for minimal parameters
+- Fastest training among all LoRA variants
+- Lowest memory footprint
+- Good for rapid prototyping and experimentation
+- Ideal for limited hardware
+
+Trade-offs:
+-----------
+- May have slightly lower quality than higher-rank LoRA
+- Best for simple tasks or quick iterations
+- Consider regular LoRA if quality is critical
+
+Comparison Table:
+-----------------
+Method          | Rank | Trainable % | Speed    | Memory  | Quality
+----------------|------|-------------|----------|---------|--------
+Full Finetune   | N/A  | 100%        | Slowest  | Highest | Best
+LoRA            | 16-32| ~1%         | Fast     | Medium  | Good
+QLoRA           | 8-16 | ~1%         | Fast     | Low     | Good
+LowLoRA (This)  | 2-4  | ~0.1%       | Fastest  | Lowest  | Fair
+
+================================================================================
+Report Generated: 2025-12-03 01:02:29
+================================================================================
