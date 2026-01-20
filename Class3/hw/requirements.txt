@@ -1,0 +1,17 @@
+# Core Web Framework
+fastapi
+uvicorn[standard]
+
+# Audio Processing and Speech
+openai-whisper
+TTS
+
+# LLM and NLP
+aiohttp
+
+# Machine Learning and Data Processing
+numpy
+scikit-learn
+
+# Fallback TTS (optional, requires internet)
+gtts
