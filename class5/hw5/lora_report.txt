@@ -1,0 +1,46 @@
+
+================================================================================
+FINE-TUNING TRAINING REPORT
+================================================================================
+
+Model Configuration:
+-------------------
+Model Name: microsoft/Phi-3.5-mini-instruct
+Device: cuda
+LoRA Fine-Tuning: Yes
+
+Training Configuration:
+----------------------
+Dataset Size: 2000 examples
+Number of Epochs: 8
+Batch Size: 2
+Gradient Accumulation Steps: 2
+Effective Batch Size: 4
+Learning Rate: 0.0003
+
+Training Timeline:
+-----------------
+Start Time: 2025-12-02 21:07:46
+End Time: 2025-12-02 22:33:44
+Total Duration: 85m 58s (5158.58s)
+
+Training Metrics:
+----------------
+Final Training Loss: 4.3016
+Total Training Steps: 4000
+Throughput: 0.39 samples/second
+
+Performance Analysis:
+--------------------
+⚠️  Training took longer than expected (> 30 minutes)
+⚠️  Model may need more training (loss >= 2.0)
+
+Model Output Location:
+----------------------
+Model Directory: ./balanced_hw5_sft
+Metrics File: training_metrics_report.json
+Report File: training_report.txt
+
+================================================================================
+Report Generated: 2025-12-02 22:33:44
+================================================================================

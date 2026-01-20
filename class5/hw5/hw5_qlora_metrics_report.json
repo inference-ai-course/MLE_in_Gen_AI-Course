@@ -1,0 +1,20 @@
+{
+  "model_name": "microsoft/Phi-3.5-mini-instruct",
+  "training_type": "qlora",
+  "device": "cuda",
+  "dataset_size": 2000,
+  "num_epochs": 8,
+  "batch_size": 4,
+  "learning_rate": 0.0002,
+  "gradient_accumulation_steps": 2,
+  "effective_batch_size": 8,
+  "start_time": "2025-12-02 22:54:35",
+  "end_time": "2025-12-02 23:58:16",
+  "training_duration_seconds": 3820.85,
+  "training_duration_minutes": 63.68,
+  "training_duration_formatted": "63m 40s",
+  "final_loss": 0.6791,
+  "total_steps": 2000,
+  "samples_per_second": 0.52,
+  "quantization": "4-bit"
+}
