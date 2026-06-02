@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "dci"
+version = "0.1.0"
+description = "Direct corpus interaction over a local PDF knowledge base"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.91.0",
+    "httpx>=0.28.1",
+    "numpy",
+    "streamlit>=1.40",
+    "tqdm",
+]
+
+[project.scripts]
+dci-agent-lite = "dci.benchmark.pi_rpc_runner:main"
+dci-run-pi-rpc = "dci.benchmark.pi_rpc_runner:main"
+dci-print-pi-system-prompt = "dci.benchmark.pi_system_prompt:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dci"]
