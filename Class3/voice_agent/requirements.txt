@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+openai-whisper
+google-genai
+python-multipart
+python-dotenv
+requests
