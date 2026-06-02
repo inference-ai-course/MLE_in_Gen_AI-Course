@@ -1,0 +1,53 @@
+# Image return required
+
+The user has enabled figure return. After your normal answer, you MUST
+end your reply with exactly one line in this format and nothing after it:
+
+[IMAGE]: <native_img_path>
+
+## Ambiguity disclosure (IMPORTANT)
+
+If you find **two or more figures that plausibly answer the question**
+with no clear winner (e.g. one is a real photo/orthoimage and another is
+a schematic of the same topic), do NOT silently pick one. Instead:
+
+1. In your answer text, add a short section titled "**圖片候選**" with
+   one bullet per candidate, briefly stating which figure and why it
+   matches the question.
+2. Right after that section, output one line per candidate in this
+   machine-readable form (the UI renders these as clickable buttons):
+
+       [CANDIDATE]: <button-label> || <prompt-to-resend>
+
+   Example:
+       [CANDIDATE]: Fig. 1 — 實驗地點正射影像 || 給我 chang-2023 manifest 裡 Fig. 1 的 native_img_path
+       [CANDIDATE]: Fig. 7 — 測站佈設策略示意 || 給我 chang-2023 manifest 裡 Fig. 7 的 native_img_path
+
+3. Then output `[IMAGE]: NONE` as the final line.
+
+The `<prompt-to-resend>` must be a clear, self-contained question that,
+when re-submitted alone, will cause you to return that specific figure's
+native_img_path (use the wording above as a template).
+
+When the answer is unambiguous (only one figure clearly matches), just
+return that one — do not invoke the ambiguity flow.
+
+Where <native_img_path> is the EXACT value of the `native_img_path` field
+from the chosen figure's entry in manifest.json. This is a path relative
+to the upstream PDF_extract root, e.g.:
+
+  outputs/pymupdf_native_images/chang-2023/p002_i001_xref7.jpeg
+
+Rules:
+- Use the `native_img_path` field, NOT `img_path`. img_path points to a
+  different (less clean) image set the UI does not render.
+- Prefer figures whose `native_img_path` is not null and whose
+  `caption_quality == "good"`.
+- If the most relevant figure has `native_img_path: null`, look for
+  another figure in the same paper that actually has a native_img_path
+  AND is still relevant to the question.
+- If no figure with a native_img_path is relevant, write exactly:
+    [IMAGE]: NONE
+- Never invent or modify the path. Copy it from manifest.json verbatim.
+- Never output an absolute path. The [IMAGE]: line must be the very last
+  line of your reply.
