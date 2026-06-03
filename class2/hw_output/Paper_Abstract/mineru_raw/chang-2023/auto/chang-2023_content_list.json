@@ -1,0 +1,1874 @@
+[
+    {
+        "type": "text",
+        "text": "Field experiments: How well can seismic monitoring assess rock mass falling? ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            208,
+            714,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jui-Ming Chang ,a, b, \\* ,Wei-An Chao ab, Yu-Ting Kuo , Che-Ming Yang d, Hongey Chen Yu Wang f ",
+        "bbox": [
+            62,
+            261,
+            757,
+            295
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Department of Civil Engineering, National Yang Ming Chiao Tung University, Hsinchu 30010, Taiwan cDepartment of the Earth and Environmental Sciences, National Chung-Cheng University, Chiayi 621301, Taiwan lnn aal Sci  Teo ener   eucon, ew ai 1, T Department of Geosciences, National Taiwan University, Taipei 10617, Taiwan ",
+        "bbox": [
+            60,
+            303,
+            663,
+            369
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            398,
+            193,
+            411
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            337,
+            399,
+            433,
+            411
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Rockfall experiment Seismic monitoring Station deployment strategy Seismic energy ratio ",
+        "bbox": [
+            60,
+            423,
+            198,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rocalrackn nmataion are ciil or eeciveazar reon. Whil iic tniqu ave beapl e l taanaly i ck. I hi suy we conurckpe using seismic networks to investigate tracking and mass estimation issues. Two methods, time-based and amplitud-basedsour locatin methods, wer used t identnil rockroud mpa points. Thehihfitness areas $_ { ( > 0 . 9 5 ) }$ overlapping between the two methods showed a location error of $< 8 . 7 \\mathrm { ~ m ~ }$ for initial rock-ground impact points. However, the combined methods could not track bounce points on the slope. To nr  . When a reference station was far away from rockfall, the rising or decreasing of high-frequency $( 7 0 { - } 9 9 ~ \\mathrm { H z } )$ seisic enery ratios relected the ockapproinor departi rom he targe statn, repectivlyAitionally, the peak low-frequency $\\left( 1 { - } 4 0 ~ \\mathrm { H z } \\right)$ seismic energy ratio of ground stations indicated the timing of the initial rock-grounmpat. Succesulmplementationf thesemethods depend onoptimal stationdistriution. Thueeha  usatiuat n difva proveliabeat etatnraorarckckure the lowest frequency(fL) satisfied the power spectral threshold of $- 1 0 0$ dB during the rockfall moving process correlated ih  cmass(M), $\\mathbf { M } = 3 8 , 9 8 9 \\mathrm { F _ { L } ^ { - 2 . 0 3 } }$ with $\\mathtt { R } ^ { 2 }$   \n' uoi hem oe ue ra ha h i can effectively assist in rockfall assessment. ",
+        "bbox": [
+            337,
+            423,
+            937,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ". Introduction ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            667,
+            163,
+            678
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rockfall is a rock mass detaching from a cliff by progressive deformation before failure. When it starts moving, the motion behavior is composed of falling, sliding, rolling, and bouncing, which are determined by the slope angle, except for sliding (Ritchie, 1963). If the slope angle is $< 4 5 ^ { \\circ }$ , rock tends to roll on the slope. During the rolling process, a rock contains moving and rotating behaviors whose route is almost linear and whose edges contact the slope continuously (Erismann, 1986). If the slope angle, however, increases above $4 5 ^ { \\circ }$ , a rock falls and then interacts with the slope, exhibiting a bouncing behavior. The moving path of the rock inherits high uncertainty due to many influential factors, such as the material of rocks and slope, incident angle, and shape of rocks (Giani et al., 2004; Wang et al., 2018). Rock bouncing may be fragmented, especially for metamorphic rocks, breaking along their foliation. (Giacomini et al., 2009). Next, when a slope angle is above $6 0 ^ { \\circ }$ to $7 0 ^ { \\circ }$ , a rock changes its motion behavior into a fall. These rock motion behaviors from start to end are defined as trajectories. Small rock travels a shorter trajectory than large rock because of the smaller kinetic energy, barriers on the motion path and gentle slope (Dorren, 2003; Asteriou and Tsiambaos, 2016; Lu et al., 2021). In general, the trajectory of all rocks is controlled by the topography (Chen et al., ",
+        "bbox": [
+            62,
+            692,
+            485,
+            810
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            667,
+            937,
+            810
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Contents lists available at ScienceDirect ENGINEERING NATL GEOLOGY Engineering Geology ELSEVIER journal homepage: www.elsevier.com/locate/enggeo ",
+        "bbox": [
+            58,
+            68,
+            942,
+            171
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Check for updates ",
+        "bbox": [
+            840,
+            185,
+            890,
+            223
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "https://doi.org/10.1016/j.enggeo.2023.107211 Received 24 July 2022; Received in revised form 28 May 2023; Accepted 12 June 2023 Available online 14 June 2023 0013-7952/ $' { \\textcircled{ \\mathbf { C } } }$ 2023 Elsevier B.V. All rights reserved. ",
+        "bbox": [
+            60,
+            878,
+            541,
+            924
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "E-mail address: geomingical@gmail.com (J.-M. Chang). ",
+        "bbox": [
+            65,
+            844,
+            773,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            388,
+            45,
+            608,
+            54
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2013a). ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            66,
+            107,
+            78
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rock contact with terrain causes ground vibration, which can be recorded by nearby seismometers as rockfall signals. In recent decades, much research has relied on the rockfall signal to understand its motion behavior by monitoring a target slope or conducting experiments on a slope scale (Vilajosana et al., 2008; Helmstetter and Garambois, 2010; Hibert et al., 2017; Guinau et al., 2019; Le Roy et al., 2019; Iannucci et al., 2020). The seismic feature of rockfall sometimes presents pulse features of its waveform and time-frequency spectrogram (Walter et al., 2012; Hibert et al., 2017). Based on the time difference between two pulses, the falling height of a rock can be roughly estimated (Dietze et al., 2017). Furthermore, the fragmentation process of rock produces a higher frequency signal than nonfragmentation (Saló et al., 2018). Then, large rock interacting with the ground generates a lower frequency signal than small rock (Huang et al., 2007). The source-station distance influences those observation frequency ranges. Typically, it is up to 200 Hz with a distance of ${ < } 1 0 0 \\mathrm { ~ m ~ }$ (Zimmer and Sitar, 2015; Hibert et al., 2017). ",
+        "bbox": [
+            62,
+            80,
+            485,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            66,
+            937,
+            131
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Except for the aforementioned seismic typology, few studies have attempted to account for rockfall trajectory and mass estimation using seismic analysis, which are crucial issues for emergency response and rockfall assessment. Feng et al. (2021) utilized the time difference of the rockfall signal from each station to locate every roll/bounce point. However, a complex geological background with path and site effects influences transmission velocity and recorded amplitudes of seismic signals, presenting inconsistent performances in determining the source location. Furthermore, the station distribution from the research was only located on the upslope area, and rocks moved downslope. The poor station coverage of the rockfall trajectory may affect the location performance. Thus, locating bounce and falling points on the ground is still an unsolved problem in rockfall monitoring. In addition to the timebased method (TB) for source location, the amplitude-based method (ASL), which has not yet been applied in a location of slope scale rockfall, is another practical way to determine the source location (Walsh et al., 2017). Here, we then discuss their pros and cons, offering a method for reliable location results. This method suggests a strategy of station distribution for rockfall monitoring in advance. Moreover, for the rock mass issue, Hibert et al. (2017) adopted a single boulder experiment and indicated that the seismic signal amplitude correlates to the rock's momentum. Nevertheless, obtaining information about the velocity of moving rock in actual rockfall events is lacking. Additional parameters need to be taken into account for practical application. Huang et al. (2007) found that the size of the boulder relates to the extension of the seismic signal towards the low-frequency band, a feature that could be a potential tool for rock mass estimation. We have included this concept in this study. ",
+        "bbox": [
+            514,
+            132,
+            937,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c020d7de450909f9267713b0fb11c09c98abe4e172f3ab70543e1011bf0fa10.jpg",
+        "image_caption": [
+            "Fig. 1. Location, photographs, and profiles of the rockfall experiment. (a) Orthoimage with geophones (Yellow Circle), cameras (Black Circle) and a release point (White Circle). The insert map indicated the experiment location in Taiwan. The arrows attached the black circles present photo directions. (b) and (c) are camera photos and (d) is drone photo; (e) and (f) are schematic diagrams of the dynamic behavior of rock on the A-A' and $\\mathbf { B } \\mathbf { - B } ^ { \\prime }$ profiles. The blue points are boundaries between different zones, and the red point is an intersection of the two profiles. The orthoimage was captured on December 15, 2021. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            257,
+            647,
+            947
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            54
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "2 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            962
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            65,
+            485,
+            329
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Overall, the goals of this paper are (i) to locate rockfall bounce sites and initial rock-ground impact points on the slope/ground, (ii) to compare the pros and cons of the two methods for location determination, (iii) to propose a new way to track rockfall movement and (iv) to construct a regression between seismic parameters and rock masses. We utilized field rockfall experiments of single boulders and sledgehammer impact as a means of obtaining these goals. ",
+        "bbox": [
+            62,
+            330,
+            485,
+            422
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Background information ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            437,
+            240,
+            448
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Experimental location and equipment distribution ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            462,
+            371,
+            475
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment took place on a slope near the $9 . 8 \\mathrm { K }$ milestone of the Provincial Highway 9D, Taiwan (Fig. 1a), on three different dates, November 8, 2019, November 4, 2020, and December 3, 2020, with different geophone deployments. On November 8, 2019, only four geophones, G01 to G04, were set in the field. G01 was close to the experimental area, and G02 was on the ground. G03 and G04 were far from the experimental area. One was above the launch location, and the other was on the ground. The sampling rate of the four stations was 200 Hz. On November 4, 2020, and December 3, 2020, we added G05 on the slope and a linear geophone array, A01 to A07, with a five-meter spacing distance for each station on the ground. The stations' sampling rates were set to $4 0 0 ~ \\mathrm { H z }$ All seismic stations were three-component geophones (PE-6/B, $0 . 4 \\ : \\mathrm { H z }$ to Nyquist frequency $2 0 0 \\ \\mathrm { H z }$ with data loggers (DATA- CUBE3 Type 2). The logger was configured with an amplifier grain of sixteen. An external GPS antenna was used to precisely synchronize the time of the measured records at the different stations with a clock accuracy of ${ { 1 0 } ^ { - 6 } }$ s. Vertical component data were considered for location issues, sledgehammer experiments, earthquake signals, and mass estimation issues, and three component data were for seismic energy ratio(R). We also installed two cameras, one the maintenance trail and one the ground near A01, to photograph rocks moving on the upper slope (Fig. 1b) and downslope (Fig. 1c), respectively. Additionally, an airborne drone recorded the complete experimental process (Fig. 1d). DJI Phantom4 RTK and Autel EVO II PRO RTK drones captured highprecision positioning of vertical and inclined aerial photos on May 4, 2020, and December 15, 2021. They provided input to photogrammetry software Pix4D-generated orthoimages and a digital surface model (DSM) with the EPSG 3826 coordinate system. Their resolution was on average $2 . 1 5 ~ \\mathrm { c m }$ /pixel for constructing slope maps, contours, and profiles. We then resampled the grid resolution to $2 0 \\ \\mathrm { c m }$ /pixel due to the efficiency of retrieving the source location. ",
+        "bbox": [
+            62,
+            490,
+            484,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We randomly selected 32 rocks, ranging from $4 ~ \\mathrm { k g }$ to $5 5 ~ \\mathrm { k g }$ ,in the field and marked each by date and rock number (Table S1). For example, rock 1203R4 is rock no. 4 on December 3, 2020. Then, we carried rocks to the narrow platform at an elevation of $3 9 1 \\mathrm { ~ m ~ }$ and freely dropped them. Rocks were launched along the gentle slope with a heading of $1 6 8 ^ { \\circ }$ (north: $0 ^ { \\circ }$ ) rather than on the steep terrain on the east side to prevent rocks from jumping to the road (Fig. S1). Then, they collided with the terrain barrier and tended to change the direction of movement to ${ \\bf 1 0 3 ^ { \\circ } }$ . We constructed two profiles according to the rockfall's starting point to the endpoint: A-A' from the release location to G05 (Fig. 1e) and B-B' from G01 to A01 (Fig. 1f). Three zones could be determined by the angle of slope and the aspect of the experimental area. Zone I, with exposed quartz-mica schist was on the upper slope of the A-A' profile, with a slope angle of approximately $4 3 ^ { \\circ }$ . The moving behavior of rocks tended towards rolling. Zone II was composed of two different aspect areas: a lower part of A-A' with a slope angle of approximately $5 3 ^ { \\circ }$ and the upper part of $\\mathbf { B } \\mathbf { - } \\mathbf { B } ^ { \\prime }$ with a slope angle of approximately $4 2 ^ { \\circ }$ As a rock rolled from Zone I to enter Zone II, it would fall and then contact the slope, turning into a bounce/roll behavior. Zone III was on the lower part of $\\mathbf { B } \\mathbf { - } \\mathbf { B } ^ { \\prime }$ with a slope angle of approximately $4 9 ^ { \\circ }$ encouraging the bouncing behavior of rocks. Zone III contained three steps covered with some small rocks. In addition, the ground close to the foot of the slope accumulated some rock boulders/debris. ",
+        "bbox": [
+            60,
+            899,
+            484,
+            936
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            65,
+            937,
+            329
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2. Investigation of effects of source, path, and site conditions ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            344,
+            870,
+            356
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Seismometers can record the ground vibrations caused by a rock's interaction with a slope. Recorded seismograms result from the convolution of time-series functions corresponding to the effect of the source, path and site. The source effect is characteristic of different seismic sources. The path effect is dominated by the medium along the propagation path that produces seismic attenuation. The site effect may amplify (or deamplify) the seismic amplitude when the seismic wave propagates through the near-surface material. To acquire background knowledge of the three effects in this experimental area, we utilized two rockfall experiments to examine the source effect, sledgehammer impacts to understand the path effect, and one local earthquake to extract the site correction of each station. ",
+        "bbox": [
+            514,
+            370,
+            937,
+            528
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To understand the effect of the source, considering the same impact location of the rock mass, $3 0 \\mathrm { k g } 1 2 0 3 \\mathrm { R } 4$ and $2 5 \\mathrm { k g } 1 2 0 3 \\mathrm { R } 5$ in the early stage of the experiments were selected to analyze their impact signals. The waveform of the 1203R4 impact without fragmentation showed a diamond shape (Fig. S2a). The impact waveform with fragmentation from 1203R5 presented a kite shape (Fig. S2b). The signals rapidly peaked and gradually decayed, inheriting different features from the signal without fragmentation. Their dominant frequencies were $7 6 \\ \\mathrm { H z }$ and $8 0 ~ \\mathrm { H z }$ , respectively. The fragmentation signals of rock 1203R5 contributed to the second dominant frequencies of $1 4 8 ~ \\mathrm { H z }$ The frequency feature was documented by G02 as well. The fragmentation behavior recorded at G02 contained a higher frequency domain of 49.0 Hz and $8 4 . 8 \\mathrm { H z }$ than non-fragmentation with a frequency of $4 4 . 6 \\mathrm { H z }$ and $6 7 . 1 \\ \\mathrm { H z }$ (Fig. S2), which was also observed by Saló et al. (2018). ",
+        "bbox": [
+            514,
+            529,
+            937,
+            712
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the path effect, the experiments were held on November 4, 2020, and December 3, 2020, with five-day antecedent precipitation of 22.5 mm and $8 3 6 . 5 \\mathrm { m m }$ , respectively. The rain gauge of C1U840 maintained by the Central Weather Bureau (CWB), Taiwan is $1 . 9 4 ~ \\mathrm { k m }$ from the research site. For experiments, we used a $7 { \\cdot } \\mathbf { k } \\mathbf { g }$ sledgehammer striking an iron plate (Fig. S3) to generate artificial vibration sources immediately adjacent to A01 and G01. The artificial vibration signal was transmitted through the ground sediment slower than through part sediment and bedrock slope. The apparent velocity of the former ranged from $5 5 8 \\mathrm { m } / s$ to $6 7 3 \\ \\mathrm { m } / s ,$ , and the latter ranged from $1 0 5 2 \\mathrm { m } / s$ to $1 1 2 3 \\mathrm { m } / s$ , almost twice the apparent velocity of the former (Fig. 2). The difference in apparent velocity resulted from the air void ratio. The apparent velocity would be higher when the seismic wave propagated in media with a lower air void ratio. Similar to the apparent velocity between G01 and G03, the media of the propagation path was composed of pure quartzmica schist; it inherited the highest apparent velocity of approximately $1 3 9 1 ~ \\mathrm { m } / s$ . Furthermore, the apparent velocity fluctuated with precipitation, from $1 0 . 7 \\%$ to $1 2 \\%$ on the date with high antecedent precipitation. However, not all paths between two stations inherited the same feature. The apparent velocity between G01 and G04 was faster on the date with low antecedent precipitation. The sledgehammer experiment supported the complexity of apparent velocity, which was sensitive to a different composition of path media and slightly influenced by rainfall infiltration. ",
+        "bbox": [
+            514,
+            715,
+            937,
+            936
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "3 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            962
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/297cd93945d92c2c3db7aa64ae9f93bdec75173c1df01e3ad440119f873fbcce.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            211,
+            69,
+            781,
+            482
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            523,
+            485,
+            614
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the site effect, we selected an earthquake from November 5, 2020, reported by the CWB, whose epicentral distance was $4 . 0 6 \\mathrm { k m }$ and focal depth was $1 1 . 7 0 \\ \\mathrm { k m }$ from the east of the study area. Compared to the distance of seismic wave propagation, the distance between station apertures could be ignored; hence, we assumed that all the propagation paths from the earthquake to the seismic stations at the incident angle of $1 2 . 8 1 ^ { \\circ }$ $0 ^ { \\circ }$ for vertical incident) were the same. Only the near-surface material influenced those seismic signals. We examined the first peak ground velocity (PGV) after high pass filtering with corner 4 for the rockfalls' hosted frequencies of $1 0 \\ \\mathrm { H z } { - } 9 9 \\ \\mathrm { H z }$ of the P wave to the earthquake (Table 1). Then, taking the G02 as a reference station, each station's PGV was divided by G02's PGV as a correction factor for the site condition (sc) of each station. ",
+        "bbox": [
+            62,
+            615,
+            485,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Seismic location method ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            800,
+            240,
+            812
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1. Amplitude-based method ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            827,
+            231,
+            838
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The amplitude source location (ASL) can estimate the location of the seismic source by different peak amplitudes and source-to-station distances (Aki and Ferrazzini, 2000; Chang et al., 2021). The method relies on large bursts of seismic amplitude, which is suitable for finding a rockfall whose seismic feature of bounce and contact with the ground is pulse-like. All seismic signals with vertical components were filtered at ",
+        "bbox": [
+            62,
+            853,
+            485,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7041febaf3bb1456f11e14f2420ed881e348de2ce226f59e385755ff57b99c53.jpg",
+        "table_caption": [
+            "Table 1 Peak ground velocity (PGV) and correction factors of site condition (sc) from earthquake signals at different stations. "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Station</td><td>PGV(m/s) (Filtering range 1099 Hz)</td><td>sc</td></tr><tr><td>G01</td><td>7.33E-06</td><td>1.38</td></tr><tr><td>G02</td><td>5.31E-06</td><td>1.00</td></tr><tr><td>G03</td><td>6.86E-06</td><td>1.29</td></tr><tr><td>G04</td><td>9.87E-06</td><td>1.86</td></tr><tr><td>G05</td><td>6.91E-06</td><td>1.30</td></tr><tr><td>A01</td><td>9.69E-06</td><td>1.82</td></tr><tr><td>A02</td><td>8.34E-06</td><td>1.57</td></tr><tr><td>A03</td><td>7.59E-06</td><td>1.43</td></tr><tr><td>A04</td><td>6.91E-06</td><td>1.30</td></tr><tr><td>A05</td><td>7.35E-06</td><td>1.38</td></tr><tr><td>A06</td><td>6.86E-06</td><td>1.29</td></tr><tr><td>A07</td><td>6.93E-06</td><td>1.30</td></tr></table>",
+        "bbox": [
+            510,
+            568,
+            939,
+            723
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 0 \\ \\mathrm { H z } \\mathrm { - } 9 9 \\ \\mathrm { H z }$ for the location examination. ",
+        "bbox": [
+            514,
+            741,
+            768,
+            754
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ASL is based on Eq. (1), which represents the peak amplitude at the i station $\\left( \\mathsf { A } _ { \\mathrm { i } } \\right)$ decaying with increasing source-to-station distance $( { \\bf r } _ { \\mathrm { i j } } ,$ meters; j-th grid source). $\\mathbf { A } _ { 0 }$ is the peak seismic amplitude at the source, $\\alpha$ is a damping factor that accounts for the anelastic attenuation of seismic waves, and the value of n controls the attenuation of the amplitude due to geometric spreading $( n = 0 . 5$ for the surface wave, $n =$ 1 for the body wave). Before using ASL, $\\mathbf { A } _ { \\mathrm { i } }$ must be corrected by sc derived from the amplitude ratios of an earthquake (Table 1). When given a prior parameter, the n value, the two unknown parameters $( \\mathsf { A } _ { 0 }$ and $\\alpha$ ) can be inverted directly by fitting the amplitude decay curve with a least-square scheme from the j-th grid. ",
+        "bbox": [
+            514,
+            755,
+            937,
+            900
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/83e036e14f3d89fdbd50630773b6a29e7c787c5a5f85432d7700999ad78262fd.jpg",
+        "text": "$$\n\\frac { \\mathrm { A _ { i } ( r ) } } { \\mathrm { s c } } = \\frac { \\mathrm { A _ { 0 j } } } { \\mathrm { r _ { i j } ^ { n } } } \\mathrm { e } ^ { - \\alpha _ { j } \\mathrm { r _ { i j } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            510,
+            906,
+            606,
+            934
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            749,
+            44,
+            937,
+            54
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "4 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            962
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, $\\alpha$ is frequency-dependent $( f , \\ \\mathrm { H z } )$ and sensitive to apparent velocity $\\mathbf { \\rho } ( \\mathbf { v } , \\mathbf { m } / s )$ and a quality factor (Q), which is shown below (Eq. (2)). ",
+        "bbox": [
+            60,
+            66,
+            484,
+            104
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/5b23cf44e55685120b9fae347097e1a95a078da1d41602e92ae463233d471bc2.jpg",
+        "text": "$$\n\\alpha = \\frac { f \\pi } { Q \\nu }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            60,
+            110,
+            107,
+            138
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The misfit function from all analyzed grids (Eq. (3)) was calculated from the discrepancies between $\\mathbf { A } _ { \\mathrm { i } }$ and the theoretical amplitude from regression $( A _ { r } ^ { j } )$ for number of stations (S). Then, we excluded the grid with negative $\\alpha$ presenting a contradictory result. Finally, one minus normalized misfit functions were used as a relative fitness (Eq. (4)). The grid with the highest relative fitness value was chosen as the best result. ",
+        "bbox": [
+            62,
+            145,
+            484,
+            224
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c351b6ac1eb994beddd2e4873c838ab267020d9303750575da152749d2108f42.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { M i s f i t ( j ) } = \\sqrt { \\frac { \\sum _ { i = 1 } ^ { S } \\left( A _ { i } - A _ { r } ^ { j } \\right) ^ { 2 } } { S - 1 } } } \\\\ & { \\mathrm { R e l a t i v e ~ f i t n e s s } = 1 - \\frac { \\mathrm { M i s f i t ( j ) } - \\mathrm { M i s f i t ( j ) } _ { m i n i m u m } } { \\mathrm { M i s f i t ( j ) } _ { m a x i m u n } - \\mathrm { M i s f i t ( j ) } _ { m i n i m u m } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            58,
+            229,
+            366,
+            305
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To understand the spread of the signal on the slope scale, we used data from the sledgehammer experiment and examined the ASL result from $n = 1 . 0$ and $n = 0 . 5$ to determine the value of n for further utilization. The sledgehammer impact was immediately adjacent to Station A04, and data from Stations G02, A01, A03, and A06 were selected for ASL. The results are shown in Table S2. The inverted $\\mathbf { A } _ { 0 }$ values were $1 . 2 7 \\times 1 0 ^ { - 3 } \\mathrm { m } / s$ and $2 . 3 5 \\times 1 0 ^ { - 3 } \\mathrm { m } / s$ for case of ${ \\mathbf { n } } = 0 . 5$ and ${ \\bf n } = 1 . 0$ , respectively. If we consider the peak ground velocity, $3 . 3 7 \\times 1 0 ^ { - 3 } \\mathrm { m } / s$ at Station A04, as the actual $\\mathbf { A } _ { 0 }$ , the result of ${ \\bf n } = 1 . 0$ was approximately the true value. Then, the location error of $\\mathbf { n } = 1 . 0$ with $0 . 8 5 \\mathrm { m }$ was less than $\\mathbf { n } = 0 . 5$ with $1 . 0 6 \\mathrm { ~ m ~ }$ ,Although the difference in location error between these two parameters was not a substantial discrepancy within the short propagation distance of the seismic wave, the results of ${ \\bf n } = { \\bf 1 } . 0$ as the body wave was better, which was applied to ASL in this research. ",
+        "bbox": [
+            62,
+            310,
+            485,
+            494
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. Time-based method ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            517,
+            201,
+            528
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The time-based method(TB) was previously approached with location distances of hundreds of meters (Reinwald et al., 2021) and kilometers scale monitoring (Burtin et al., 2013). We modified the concept for less than a one-hundred-meter monitoring scale. The seismic signal generated by a source was first received by the nearest station at $\\mathbf { t } _ { \\mathrm { i } 0 }$ with a source-to-station distance ${ \\bf r } _ { \\mathrm { i 0 } }$ and recorded by other stations at $\\mathbf { t _ { i } }$ with a source-to-station distance $\\mathbf { r } _ { \\mathrm { i } } ,$ respectively. A cross-correlation function determined the time difference between each station and the nearest station of $\\mathbf { t } _ { \\mathrm { i - i 0 } }$ with the assumption that the wave propagation speed was constant. Therefore, for different pairs of stations between the nearest station and the i station, their ratio of $\\Delta \\mathbf { r } _ { \\mathrm { { i - i 0 } } }$ to $\\Delta \\mathrm { t } _ { \\mathrm { i - i 0 } }$ should be the same. We further adapted a least square scheme for total analyzed grids (j) (Eq. (5)) and excluded the results of grids with an unreasonable parameter, negative $\\Delta \\mathbf { r } _ { \\mathrm { { i j - i j } } 0 }$ . The remaining results were for the misfit function inheriting the same algorithm as ASL by discrepancies between calculated and theoretical distance differences between the nearest station and the i-th station. Then, the relative fitness and the best result could be defined. ",
+        "bbox": [
+            62,
+            542,
+            485,
+            779
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e789bf521794567758bd1a4f3d752ed65ed9ae646f35583fa4befe197d2180a5.jpg",
+        "text": "$$\n\\mathrm { v ( r ) } = { \\frac { \\mathrm { r _ { i j } } - \\mathrm { r _ { i j 0 } } } { \\mathrm { t _ { i } } - \\mathrm { t _ { i 0 } } } } = { \\frac { \\Delta \\mathrm { r _ { i j - i j 0 } } } { \\Delta \\mathrm { t _ { i - i 0 } } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            60,
+            786,
+            200,
+            813
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The distance from the source to the station is a crucial parameter for ASL and TB. In an actual event, the seismic waves can propagate through underground material to stations. To simplify the propagation distance, we used (1) the Euclidean distance between each grid on DSM and each station and (2) the topographic distance as a source-to-station distance. To obtain the topographic distance, a vertical plane (dip: $9 0 ^ { \\circ }$ )was created between two analytical points. Next, all DSM grids were projected onto the vertical plane, and a threshold of point-to-plane distance was set. Then, grids that meet the thresholds of $0 . 1 \\mathrm { ~ m ~ }$ ,meaning grid points with a vertical plane distance $< 0 . 1 \\ \\mathrm { m } ,$ ,constituted the terrain profile between two analytical points. Finally, the Euclidean distance between those grids was summed as the topographic distance. We used the topographic distance as the source-to-station distance in ASL and TB for bounce locations on the slope. However, for initial rock-ground impact points and sledgehammer experiment on the ground, we only took a Euclidean distance between each grid and station as the sourceto-station distance rather than the topographic distance because the ground vegetation enlarged the distance from the source to the station by taking the topographic distance. ",
+        "bbox": [
+            62,
+            818,
+            485,
+            936
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            66,
+            937,
+            197
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3. Ratio of seismic energy ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            219,
+            675,
+            232
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Except for the source location, we further presented a new method in the following process to downplay the source effect, which eliminated signal features caused by the source effect (e.g., variances in rock mass). First, we integrate the squared amplitudes for a 0.1-s time window length (T), overlapping by $5 0 \\%$ , to be seismic energy (E), as shown in Eq. (6). Furthermore, the seismic energy ratio (R) can be calculated by the seismic energy of the station i divided by a reference station (ref) that is far from the rockfall (Eq. (7)). In this experiment, the rockfall gradually moved away from G03; thus, G03 was chosen as the reference. ",
+        "bbox": [
+            514,
+            245,
+            937,
+            364
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c132e7d4ed549877c47efbb369ef57cbfd68fdead637cd5cbab1397b1305f0cd.jpg",
+        "text": "$$\n\\mathrm { E } _ { \\mathrm { k } } ( \\mathrm { t } _ { c } ) = \\sum _ { \\tau = t _ { c } - \\frac { T } { 2 } } ^ { t _ { c } + \\frac { T } { 2 } } [ ( h ( \\tau ) ) ] ^ { 2 } \\Delta \\mathrm { t }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            510,
+            370,
+            653,
+            409
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8c492b4afe30d643530fc735858111029fb5fbaf9ec743d957f4f9ac5e3d1c78.jpg",
+        "text": "$$\n\\mathsf { R } _ { \\mathrm { k } } ^ { \\mathrm { i } } = \\frac { \\mathsf { E } _ { \\mathrm { k } } ^ { \\mathrm { i } } } { \\mathsf { E } _ { \\mathrm { k } } ^ { \\mathrm { r e f } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            510,
+            419,
+            568,
+            450
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { k }$ is the component of seismic data, $\\Delta \\mathbf { t }$ is sampling interval, h (t) is the time series of seismic signals, $\\mathbf { t } _ { \\mathrm { c } }$ is the time center of the time window. ",
+        "bbox": [
+            514,
+            461,
+            936,
+            499
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have found that high-frequency signals refer to the dynamics of rockfall motion (Dietze et al., 2017; Hibert et al., 2017), and low-frequency signals are linked to a rebound of the contact surface between rock and terrain. (Huang et al., 2007). Therefore, we selected the high-frequency band $7 0 \\mathrm { H z } \\mathrm { - } 9 9 \\mathrm { H z }$ (H) and the low-frequency band 1 $\\operatorname { H z } \\mathbf { - } 4 0 \\ \\operatorname { H z }$ (L), which prevented overlap with the frequency band of ambient seismic noise $4 0 \\ \\mathrm { H z } { - } 7 0 \\ \\mathrm { H z }$ shown in Fig. S4). The aforementioned two frequency bands for high and low seismic energy ratio (HR and LR) were applied in this research to track rockfall. ",
+        "bbox": [
+            514,
+            500,
+            937,
+            617
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.Results and discussion ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            634,
+            678,
+            646
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1. Bounce location on the slope ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            662,
+            705,
+            673
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One bounce of 1104R1( $5 . 3 8 \\mathrm { m }$ far from G01) was used as an example (black star in Fig. 3) for locating a bounce point by ASL and TB through topographic distance. The bounce was the moment before 1104R1 changed the moving heading from $1 6 8 ^ { \\circ }$ to ${ \\bf 1 0 3 ^ { \\circ } }$ . In the TB scheme, the seismic signal from the bounce first arrived at G01 and followed G05, G02, G03, and other ground stations. The TB result showed that when all stations were used for TB, the relative fitness range above 0.95, a threshold of reliable location result proposed by Chang et al. (2021), was a divergence pattern (orange color in Fig. 3). Although the TB can offer the best result by grid search, the diverse distribution of relative fitness indicated an unreliable location determination. There were two reasons for the dispersion pattern: (1) different apparent velocities through the bedrock or part of the bedrock and sediment, and (2) ground vegetation/ barriers enlarge the topographic distance from each searching grid to ground Stations A01 to A07 and G04, which is different than the topographic distance for slope stations. Consequently, we only considered using the stations on the slope (G01, G02, G03, and G05) to avoid these two factors. ",
+        "bbox": [
+            514,
+            687,
+            937,
+            923
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The reliable area, however, was more dispersed (brown in Fig. 3). To understand the phenomenon, the arrival times of four stations were chosen (red line; Fig. S5). Then, we assumed that the apparent velocity from the bounce location to each station was the same as the velocity by sledgehammer impact from G01 to each station due to the small spatial shift of $5 . 3 8 \\mathrm { m }$ The theoretical arrival time could be determined (blue line; Fig. S5). The discrepancy between these two arrival times showed that the bounce signal propagated faster than the impact signal. The velocity changed from $3 7 \\%$ to $8 1 \\%$ , corresponding to a longer topographic distance. This implied that a small spatial shifting of the source can produce a disparate velocity pattern, which causes difficulty in locating the signal source on the slope by the TB method. ",
+        "bbox": [
+            532,
+            925,
+            937,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "$J .$ -M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            54
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "5 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            960
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/caa2e69b49b273ff3c6aa443d95dc5bc118ad22b2f5da6450ca60c44158056d4.jpg",
+        "image_caption": [
+            "F "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            186,
+            61,
+            813,
+            580
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            616,
+            485,
+            761
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the ASL scheme, the result for all stations was better than the TB output. However, the reliable points (black in Fig. 3) were located on steep terrain and separated into two parts whose best result was unreliable. To solve this problem, seismic arrays A01 to A07 were used to examine the important parameters $\\operatorname { A _ { i \\_ s c } }$ $( \\mathsf { A } _ { \\mathrm { i } }$ with sc correction) and ${ \\bf r } _ { \\mathrm { i } }$ in ASL. Theoretically, with increasing source-to-station distance, Ai_sc should gradually decrease. However, in this case, the performance conflicted with the theoretical condition. The descending order of ${ \\bf r _ { i } }$ was A03, A04, A01, A05, A06, and A07, and the descending order of $\\operatorname { A _ { i \\_ { s c } } }$ was A04, A05, A01, A07, A06, and A03 (Table S3). Station A03, close to the source, recorded the smallest peak amplitude, almost half the A04 record. Furthermore, we used data from the sledgehammer impact at G01, whose distance and azimuth to the ground seismic array were near the bounce source to those ground stations. Although two source locations were nearby, the signal decay of the sledgehammer impact was inconsistent with the bounce signal. Most of the amplitudes were within the range of $1 . 6 3 \\times 1 0 ^ { - 6 } \\ : ( \\mathrm { m } / s )$ to $1 . 7 9 \\times 1 0 ^ { - 6 } \\ : ( \\mathrm { m } / s )$ , except for the lower amplitudes at Stations A03 and A05. The display supported the small shifting of source location on the slope, exhibiting unpredictability. Additionally, the sledgehammer impacted the horizontal iron plate, but the rock contacted the slope with a different incident angle. The incident angle may play an uncertain role in the recorded signals—those bringing obstacles to locating the bounce point. ",
+        "bbox": [
+            62,
+            762,
+            485,
+            933
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            616,
+            937,
+            749
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Next, we took the same test as the TB method. An arrangement of ASL excluded data from ground stations whose output was unacceptable as well (white color in Fig. 3). The result inherited the same pattern as the TB output, with a greater dispersion area of reliable areas. Therefore, locating the bounce point was still a challenge for repeated experiments. A detailed velocity model for a target slope may solve these issues (Kuehnert et al., 2020). However, the velocity model relies on seismic prospecting or geophysical surveys, which are difficult to conduct on a steep slope. Thus, it is necessary to access an efficient method for rockfall movement on the slope. We describe the issue in Section 4.3 using LR and HR. ",
+        "bbox": [
+            514,
+            750,
+            937,
+            894
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            749,
+            44,
+            937,
+            54
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "6 ",
+        "bbox": [
+            495,
+            954,
+            504,
+            962
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2. Ground location of falling rocks ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            66,
+            273,
+            79
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition to investigating the feasibility of locating the bounce points, the other objective was to determine the initial rock-ground impact, which might release significant kinetic energy causing the major hazard to the transportation system (Wei et al., 2014; Yan et al., 2019; Chang et al., 2021). In Section 4.1, we discussed how the dispersion pattern of high relative fitness areas could not offer robust outcomes; hence, the priority in this section was to confirm the reliable area convergence or not. Data on November 4, 2020, from all ground stations were selected. We manually recognized the initial rock-ground impact points using video screen captures and retrieved the signals from the substantial impact as input for TB and ASL. Both results presented convergence areas for initial rock-ground impact locations of falling rocks (Fig. S6), implying that both methods were suitable for this purpose. The outcome would support the assumption that ground sediment was more homogeneous than slope bedrock, in which seismic waves obeyed the theoretical rule. Consequently, we included all experiments on November 4, 2020, with seven of eleven rocks falling on the ground (Table ST1) in locations close to the slope (Fig. 4). ",
+        "bbox": [
+            62,
+            93,
+            485,
+            329
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the TB scheme, the location error ranged from $2 . 1 4 \\mathrm { m }$ to $1 0 . 0 2 \\mathrm { m }$ (Fig. 4) with an average of $3 . 6 6 ~ \\mathrm { m } ,$ except for 1104R8, which had the highest location error. Almost all rocks landed northwest of Station A01; however, 1104R8 fell southwest of Station A01. The error of 1104R8 was derived from the poor station coverage of the source location, which is crucial in the velocity-based method (Chang et al., 2021). ",
+        "bbox": [
+            62,
+            330,
+            485,
+            408
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the inverted velocity from the best location and source of TB was an average of $7 8 1 . 2 \\mathrm { m } / s$ and $7 0 5 . 7 \\mathrm { m } / s$ (Table S4), respectively. These apparent velocities were slightly faster than the sledgehammer impact range of $5 5 8 . 1 \\ \\mathrm { m } / s$ to $6 7 0 . 3 \\mathrm { m } / s$ . ",
+        "bbox": [
+            514,
+            66,
+            937,
+            117
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "With the ASL scheme, the location error was on average $8 . 5 8 \\mathrm { ~ m ~ }$ (Table S4), and $\\alpha$ was 0.045 of the best results. Then, the $\\alpha$ retrieved from the source location was 0.039. These values are almost half of the value of the sledgehammer impact, indicating that the signals from falling rocks and the sledgehammer impact had different decay features. Next, $\\alpha$ from the source location presented real cases of signal decay from the rock falling on the ground at this experimental site. We also recalculated ASL by fixing $\\alpha$ as 0.039 to perform the inversion again. The result showed that the location error with fixing $\\alpha$ substantially decreased to $6 . 4 7 \\mathrm { m }$ (Fig. 4). After fixing $\\alpha$ for ASL, 1104R3 and 1104R6 still showed significant location error due to a similar source-to-station distance from sources to A01, A03, and G02. The precise result of ASL depended on the onset of the nearest station and different spacing of the source-to-station distances (Walsh et al., 2017). In two cases, the sourceto-station distance to G02, A01, and A03 was too close. They were 8.40 m, $6 . 6 8 \\mathrm { ~ m ~ }$ , and $8 . 4 2 \\mathrm { ~ m ~ }$ to 1104R3 and $8 . 5 0 \\mathrm { ~ m ~ }$ , $6 . 4 5 \\mathrm { ~ m ~ }$ , and $7 . 0 8 \\mathrm { ~ m ~ }$ to 1104R6. The distribution pattern caused a significant location error for the two rocks. Except for these two cases, ASL performed as well as the TB method. ASL can make up for a deficiency of TB, such as the lack of station coverage case 1104R8, reducing the location error to $5 . 8 5 \\mathrm { m }$ due to the good distribution of the source-to-station distance. This feature is applicable to the strategy for future monitoring. ",
+        "bbox": [
+            514,
+            119,
+            937,
+            408
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/70bec9af815873809ec6af1d21f97d75084d7137ab449af6cb92c16edd43384f.jpg",
+        "image_caption": [
+            "F..Position of initial rock-ground impact (black square) and results o ASL (white circle) with xing $\\alpha$ and TB (grey circle) methods. The number inside the "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            144,
+            433,
+            840,
+            891
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            62,
+            44,
+            144,
+            54
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "7 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            960
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless, to use the location method for actual cases, the ASL and TB methods cannot be applied to all causes. To explore the practical operation, we reviewed the distribution of relative fitness over 0.90 of the results from the two methods (Fig. S6) and found that their reliable areas overlapped, suggesting both areas were partly the same. These grids may offer the possibility of combining ASL and TB with practical applications. ",
+        "bbox": [
+            62,
+            66,
+            485,
+            156
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We first identified all grids from both methods with relative fitness over 0.95 as a threshold and extracted overlapping grids. However, not all cases, such as 1104R1, contained the overlapping area with relative fitness ${ > } 0 . 9 5$ .We gradually decreased the threshold from 0.95 by intervals of 0.01 until extracting the overlapping result of the two methods. Then, we calculated the mean and standard deviation of the location error to the source location for all overlapping grids. The location error ranged from $1 . 0 6 \\mathrm { m }$ to $8 . 6 9 \\mathrm { m }$ with an average of $3 . 9 0 \\mathrm { m }$ which resulted in four cases being dropped except for 1104R2, 1104R3, and 1104R8 (Table S3). Nevertheless, these results were around the minimum location error of the two methods. Therefore, we concluded that the overlapping area obtained by stratifying thresholds of relative fitness could be the result of the ground location point of falling rocks, which was adequate for further application with a straightforward automatic function. ",
+        "bbox": [
+            62,
+            158,
+            485,
+            354
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3. Rockfall tracking ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            66,
+            642,
+            78
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on the ASL and TB results, there were two remaining issues: (1) the ability to track moving rocks on the slope and (2) finding a way to retrieve the exact time/signal of rock falling on the ground? The example of the $3 0 – \\mathrm { k g }$ rock without fragmentation, 1108R12, illustrates these two issues with the R method. 1108R1-2 was released at 03:00:26.7 (UTC) and stopped at 03:00:35.0 (UTC) (Fig. 5). When the rock started moving in the rolling phase, the edge of the rock contacted the slope quickly with a short time interval, as shown in Zone I. Because the time intervals between each contact of the rolling phase were too short, approximately $_ { 0 . 4 s }$ (average time interval from 1 to 7 in Fig. 5) determined from recognition peaks of $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ , we could not obtain the precise location of the impact point from the video. Only the final impact point in Zone I could be located (Fig. S7a). ",
+        "bbox": [
+            514,
+            93,
+            937,
+            263
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Then, 1108R12 fell in Zone II (Fig. S7b), becoming a bounce phase (Fig. S7b-d) until it fell onto the ground debris (Fig. S7e). The video noted five impact points, which also showed prominent peaks (P1-P5) in the HR range of $7 0 \\ \\mathrm { H z } \\mathrm { - } 9 9 \\ \\mathrm { H z }$ . Before releasing 1108R1, the HR ranged from $1 0 ^ { - 2 }$ to $1 0 ^ { - 1 }$ of background noise (Fig. 5). When the rock started moving, $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ sharply rose to $1 0 ^ { 2 }$ in Zone I, peaked in Zone II, and then dropped to the background level after the rock fell onto the ground debris. Additionally, the time difference was greater than one second during P1 to P2 and P4 to P5, indicating the fall characteristic from Zone I to Zone I and Zone II o Zone . $\\mathrm { H R } ^ { \\mathrm { G 0 2 } }$ ai to $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ The main discrepancy between $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ and $\\mathrm { H R } ^ { \\mathrm { G 0 2 } }$ was the timing of their peak HR value. The spikes of $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ gradually increased (green line; Fig. 5) and reached a peak at the P4 impact, then, the spikes of $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ decreased (green dashed line; Fig. 5). For $\\mathrm { H R } ^ { \\mathrm { G 0 2 } }$ , the spikes gently rose to a peak (grey line; Fig. 5), showing that the rock was approaching G02. This phenomenon was related to the decay feature of high-frequency signals. Therefore, the up and down of the HR showed the rock gradually approaching or departing from the station. Compared to HRG01 and $\\mathrm { H } \\mathrm { \\bar { R } } ^ { \\mathrm { G 0 \\bar { 2 } } }$ $\\mathrm { H R } ^ { \\mathrm { G 0 4 } }$ was stabilized due to the long source-tostation distance corresponding to the decay of the high-frequency signals. ",
+        "bbox": [
+            514,
+            264,
+            937,
+            355
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0ff72cc217d219b84ab897e1cdc0827ac46877f42cb06cec59d4bb568c90ecf.jpg",
+        "image_caption": [
+            "5. ndie i $\\mathbf { H } \\mathbf { R } ^ { \\mathbf { G 0 1 } }$ , $\\mathrm { H R } ^ { \\mathrm { G 0 2 } }$ , and $\\mathrm { H R } ^ { \\mathrm { G 0 4 } }$ and decreasing trend of the HR. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            156,
+            374,
+            840,
+            891
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "8 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            962
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            62,
+            44,
+            142,
+            54
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            66,
+            485,
+            249
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "However, the LR exhibited a distinct pattern (Fig. 6). The background noise of the LR ranged from $1 0 ^ { - 2 }$ to $1 0 ^ { - 1 }$ . The peak of P1 to P5 was approximately ten to one hundred times the background value. The level of increase was half of the HR. However, the signal of P5 to ground stations G02 and G04 pointed out the peak LR showing the greatest impact on the ground debris, which was ten thousand and a thousand times the value to the background level, respectively. Even though the LR did not indicate the impacts of rolling and bouncing, it presented the timing of rock falling on the ground. ",
+        "bbox": [
+            62,
+            250,
+            485,
+            369
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These results demonstrate that the HR responds to rockfall dynamics such as falling, rolling, and bouncing. The ascending and declining trend of the HR offers information about the rock approaching or departing from a station. The peak LR on ground stations can mark the greatest impact of rocks falling on the ground. These impacted-induced seismic signals can be used as input for ASL and TB to provide initial rockground impact points of falling rocks. ",
+        "bbox": [
+            62,
+            370,
+            484,
+            448
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            66,
+            737,
+            78
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4Station deployment strategy ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            105,
+            700,
+            117
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The above issues regarding the source location by ASL and TB and tracking rocks by HR and LR were influenced by the geometry of the seismic station distribution. For example, 1104R3 and 1104R6 fell near the center of G02, A01, and A04, causing a higher location error than other rocks by using ASL. 1104R8 was outside the station coverage with a location error of $1 0 . 0 2 \\mathrm { ~ m ~ }$ to TB. Furthermore, the ascending and declining features of the HR and the peak of the LR were based on the upslope reference station (G03). Thus, deploying a seismic network for a specific target is the key in practical applications. ",
+        "bbox": [
+            514,
+            132,
+            937,
+            250
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We use the sledgehammer experiment at A04 as an example to describe the strategy of station distribution of ASL and TB. In ASL, it is crucial to offer good spacing distances from source to station. For example, when A01, A03, A05 and A07 were utilized for ASL, the source-to-station distance of A01 was equal to that of A07, the same as that observed for A03 and A05. The effectiveness was similar to applying data from only two stations (A01 or A07 with A03 or A05), producing a diverse reliable area (Fig. S8a). However, when we added one more station near the source, the reliable area converged (Fig. S8b), supporting that the high-fitness grids could be dragged near the station with the highest amplitude. If we put a station close to the source, the ASL would perform well. In the actual environment, the station cannot always be next to the source. Therefore, giving different source-to-station distances will also be a solution for ASL, such as using G02 $\\mathbf { \\nabla } ^ { \\prime } _ { 1 2 \\mathrm { m } } )$ , A01 $\\left( 1 5 \\mathrm { m } \\right)$ , A06 $\\mathbf { \\rho } _ { 1 0 \\mathrm { m } }$ , and A07 $( 1 5 ~ \\mathrm { m } )$ (Fig. S8c). Another situation was that all stations were on the same side of the source. The reliable areas were diverse (Fig. S8d), which can be improved by fixing $\\alpha$ derived from repeated experiments (Fig. S8e). After that, the high relative fitness grids were near a station with the shortest source-to-station distance, strengthening the description in Fig. S8b that dragged high-fitness grids to the station with the highest amplitude. In TB, the key is the coverage of stations near the source. The configuration of linear stations from A01, A03, A05, and A07 for TB revealed an inaccurate result with two areas of high fitness grids (Fig. S9a), which cannot be revised by adding the nearest Station A04 (Fig. S9b). The only method for TB was good station coverage, such as using A01, A06, A07, and G02 to retrieve three different pairs, A01-A06, A07-A06, and G02-A06, to produce a better result (Fig. S9c). ",
+        "bbox": [
+            514,
+            252,
+            937,
+            461
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/077a9540c3323c792003b4ab8f6af9dc06b953490ea82e39051e5c535b3ebf0e.jpg",
+        "image_caption": [
+            "Fi. 6. Low-requency seismic energy ratif $\\mathbf { L R } ^ { \\mathrm { G 0 1 } }$ , $\\mathbf { L R } ^ { \\mathbf { G 0 2 } }$ ,and $\\mathrm { L R } ^ { \\mathrm { G 0 4 } }$ $1 ~ \\mathrm { H z } \\mathrm { - } 4 0 ~ \\mathrm { H z }$ P1 to P5 of the LR. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            477,
+            842,
+            889
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "$J .$ -M. Chang et al. ",
+        "bbox": [
+            60,
+            45,
+            144,
+            52
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "9 ",
+        "bbox": [
+            495,
+            953,
+            504,
+            962
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            65,
+            485,
+            224
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The reference station influenced the trend of the R-value. In Section 5, the reference station was G03. The result could be modified once we changed the reference station to G04. Fig. S10 shows the HR with G04 as a reference station. $\\mathrm { H R } ^ { \\mathrm { G 0 1 } }$ peaked when the rock was in Zone I and then gradually decreased due to rock departure from G01 and approach to G04. For $\\mathrm { H R } ^ { \\mathrm { G 0 2 } }$ T l eao G03) disappeared. Several peaks revealed the rock contacting the slope/ ground, so it was challenging to track rocks from the HR when two stations were on the rock's approaching side. However, for the LR, the lowest of $\\mathbf { L R } ^ { \\mathbf { G 0 1 } }$ decreased to $1 0 ^ { - 2 }$ ,ing rfallig  he ound with a pattern similar to $\\mathrm { L R } ^ { \\mathrm { G 0 3 } }$ (Fig. S11). Therefore, the lowest LR can also be an indicator of the time when the rock impacts the ground. ",
+        "bbox": [
+            62,
+            224,
+            485,
+            382
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "These results, as mentioned above, are displayed in a schematic diagram (Fig. 7). The best distribution of the stations for ASL and TB is a triangle with different distances from the source to the station, and the fourth station should be as close to the source as possible (Fig. 7a). The monitoring target can be a point source, such as a single rockfall or overhanging rockfall. Then, the strategy can be extended to the regular monitoring of rock slope failures or landslides that have already occurred in Taiwan (Chang et al., 2021). In addition, the R method is adjustable depending on local conditions (Fig. 7b), which relies on a detailed field survey and the modelling technique to understand the location of an unstable rock mass and its potential trajectory. ",
+        "bbox": [
+            62,
+            383,
+            485,
+            527
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.5. Mass estimation ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            549,
+            183,
+            561
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The impact signals of different rock masses are associated with the levels of low-frequency signal extension (Huang et al., 2007). This frequency feature was applied here to build the regression with the rock mass. To determine the lowest frequency, we set different power spectral (PS) of $- 1 0 0 \\mathrm { d B }$ (where dB is relative to $( \\mathrm { m } / \\mathrm { s } ) ^ { 2 } )$ , −105 dB, and − 110 dB during each experiment to obtain PS larger than those thresholds and then selected the lowest frequency from those satisfactory signals. The PS was calculated by the discrete S transform (Eq. (8)) derived from the discrete Fourier transform (Eq. (9)), while $f , \\tau _ { : }$ ,t and $\\beta$ were derived from Eqs. (10)(13). Then, we squared the output of the discrete S-transform, took the logarithm, and multiplied by ten (Eq. (14)). The PS was referred to as dB following the procedure from Chen et al. (2013b). ",
+        "bbox": [
+            60,
+            576,
+            485,
+            601
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            65,
+            937,
+            196
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "img_path": "images/b92ab6e9d2d5cfc4325b1088836efacadcec74094e264092720b567bed5a5cea.jpg",
+        "text": "$$\ns \\left( i \\Delta \\mathrm { t } , \\frac { l } { N \\Delta \\mathrm { t } } \\right) = \\sum _ { m = 0 } ^ { N - 1 } H \\left( \\frac { l + m } { N \\Delta \\mathrm { t } } \\right) e ^ { - 2 \\pi ^ { 2 } \\frac { m ^ { 2 } } { l ^ { 2 } } } e ^ { 2 \\pi i \\frac { m \\beta } { N } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            510,
+            204,
+            751,
+            235
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "img_path": "images/07a64ed789c9aa3560b7621300dc83dde7b9c7efdd37e047ae5eb22f9962e579.jpg",
+        "text": "$$\nH \\bigg ( \\frac { l } { N \\Delta { } t } \\bigg ) = \\frac { 1 } { N } \\sum _ { k = 0 } ^ { N - 1 } h ( t ) e ^ { - 2 \\pi i \\frac { l k } { N } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            510,
+            247,
+            675,
+            279
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ee98219002be94d6142359b6a5e2c47cb8ace8c0ce2f23812eb7a9f5e721d87d.jpg",
+        "text": "$$\nP S = 1 0 \\times l o g _ { 1 0 } s \\bigg ( i \\Delta \\mathrm { t } S , \\frac { l } { N \\Delta \\mathrm { t } } \\bigg ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            510,
+            409,
+            685,
+            438
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta \\mathbf { t }$ is the sampling interval of time, N is the total data points and h (t) is a discrete time series seismic data with a vertical component. ",
+        "bbox": [
+            512,
+            450,
+            936,
+            476
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We proposed a threshold of $- 1 0 0 ~ \\mathrm { d B }$ in G01 and G02 the 1104R1 experiment to demonstrate the selection of the lowest frequency during the moving process. Fig. 8a-d show the bounce of the rock with the rock impacting the ground (Fig. 8e and f), rolled, and gradually stopping (Fig. 8 g). The bounce presented signals above $6 \\ \\mathrm { H z }$ ,and the roll behavior generated a range of $3 0 \\ \\mathrm { H z }$ to $1 0 0 ~ \\mathrm { H z }$ (Fig. $^ \\textrm { \\scriptsize 8 h }$ and i). Furthermore, we preserved the PS satisfying the threshold of $- 1 0 0 ~ \\mathrm { d B }$ . The bounce signal from Fig. 8a and the impact signal from Fig. 8e contributed to the lowest frequency (fL) of $2 9 . 2 \\mathrm { H z }$ in G01 (Fig. 8 h) and ",
+        "bbox": [
+            514,
+            476,
+            937,
+            595
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce463fd85a9ccecd36d7b6de8a24088e5f4f92b89f4b148ee6ae796a4dc83356.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            176,
+            620,
+            818,
+            915
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            751,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "10 ",
+        "bbox": [
+            494,
+            953,
+            507,
+            962
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/810d0ed2de082446e21676cbe23a078868b3d78d614a15ec085b258aa625f49d.jpg",
+        "image_caption": [
+            "The circle is the lowest frequency satisfying the threshold of $^ { - 1 0 0 }$ dB. The (a) to $( { \\bf g } )$ above the spectrograms were the moments when the photo was taken. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            166,
+            63,
+            826,
+            698
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$1 8 \\ \\mathrm { H z }$ in G02 (Fig. 8i). The above procedure was used for all rocks for their lowest frequency in G01 and G02 for the regression with the rocks' mass. ",
+        "bbox": [
+            60,
+            746,
+            484,
+            785
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the twenty-one available experiments, the $\\mathrm { R } ^ { 2 }$ between the lowest frequency and the rock mass (M) of G01 was 0.62, 0.60, and 0.56, with the threshold satisfying $- 1 0 0$ dB, $^ { - 1 0 5 }$ dB, and - 110 dB, respectively (Fig. ${ 9 } \\mathbf { a } { } _ { \\mathrm { . } }$ . The higher threshold was accompanied by the higher $\\mathrm { R } ^ { 2 }$ of regression, $\\mathbf { M } = 3 8 , 9 8 9 ( \\mathrm { f _ { L } } ) ^ { - 2 . 0 3 }$ ; however, G02 exhibited a scatter pattern and was less sensitive to the source-to-station distance (Fig. S12). To clarify the discrepancy between the two stations, we examined the videos of 1108R51 and 1108R52. 1108R51 falling on the debris and continuing to move. Then, a small rock fell from the slope to the ground debris, producing a pulse signal (Fig. S13). The lowest frequency of 1108R51 was $3 3 . 5 \\mathrm { H z }$ as the primary rock falling on the debris. 1108R52 bounced off the slope and then fell to the ground. The lowest frequency of $2 2 . 7 \\ : \\mathrm { H z }$ was from the bounce on the slope. In these two cases, the rock bouncing on the slope contributed to a lower frequency signal than a rock falling on ground debris. Thus, the algorithm above for sieving the lowest frequency for G02 contained a bias. ",
+        "bbox": [
+            62,
+            786,
+            485,
+            930
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            746,
+            937,
+            812
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rock contact with different impacted materials, such as bedrock, ground debris, or ground sediment, presents different frequency characteristics (Farin et al., 2015). To confirm the reason, we also excluded experiments where (1) the rock did not fall onto the ground, (2) the rock fell on the ground debris, or (3) we could not recognize the impacted material. Based on these three conditions, the remaining seven experiments were applied here. The results showed that the $\\mathrm { R } ^ { 2 }$ values in G02 were 0.35, 0.36, and 0.47, respectively (Fig. 9b). Therefore, the impacted material is crucial in the relationship between the lowest frequency and the rock mass. Future applications should carefully examine the surrounding environment to install seismic stations to retain single impacted material. ",
+        "bbox": [
+            514,
+            813,
+            937,
+            930
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            749,
+            44,
+            937,
+            54
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "J.-M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "11 ",
+        "bbox": [
+            494,
+            953,
+            505,
+            962
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/741adf1c21217d51b7b9e7d369af3e8e550c6ea6b3227dede30d060a9d852dd3.jpg",
+        "image_caption": [
+            "data were from the initial rock-ground impact on sediment. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            144,
+            65,
+            850,
+            341
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            393,
+            484,
+            431
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.6. Future perspective ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            446,
+            193,
+            457
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To enhance the generalizability of our research findings, several prerequisites and procedures must be taken into account to apply seismic techniques for source location, rockfall tracking, and mass estimation to other slopes (Fig. 10). Firstly, in terms of location, we suggest conducting drone surveys to generate digital elevation models, using a sledgehammer to clarify the path effects, and analyzing earthquake signals to correct site-specific effects. In adapting ASL and TB, site and path effects should also be considered, respectively. Ultimately, a reliable location for initial rock-ground impact is achieved by identifying the overlapping area of both results with high relative fitness $_ { ( > 0 . 9 5 ) }$ . Secondly, avoiding frequency bands saturated with ambient noise for rockfall tracking by seismic energy ratio is essential. Conducting HR and LR can help to identify the feature of the rock mass approaching/departing from a station and the timing of rock-ground impacts. Finally, the lowest frequency during the rockfall process and rock mass can be used in repeated experiments to build an empirical regression for future applications in the experimental site. ",
+        "bbox": [
+            62,
+            471,
+            485,
+            694
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            393,
+            605,
+            404
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study demonstrates a systematical experiment using seismic signal analysis for tracking rockfall and estimating its mass. The combined location approach using time-based (TB) and amplitude-based (ASL) methods yielded location estimates for initial rock-ground impact points with an error of $< 8 . 7 \\mathrm { ~ m ~ }$ . To identify the target signals of rock-ground impact, we relied on the appearance of peaks in the lowfrequency seismic energy ratio (LR) of ground stations, with a reference station located on the upslope. However, locating bouncing points using a combined method on the slope remains challenging. An alternative method assisted us in understanding a rockfall's motion, including approaching or leaving seismic station locations. By changing the reference station, the operation was more flexible. These results were based on particular distributions of seismic stations. Different source-tostation distances with a triangular station geometry are suitable for locating initial rock-ground impact points by ASL and TB. Then, stations located at different elevations, on the up and down slopes, benefit from the ascending and declining pattern of a high-frequency seismic energy ratio (HR) and a peak of the LR, respectively. Regarding mass estimation, contact of a large boulder with the ground/slope extends the signal's frequency to low-frequency bands. We set power spectral thresholds to extract f, during the rockfall process and found that the lowest frequency correlates with the rock mass. However, these results depend on prior knowledge influenced by background geology, which varies across different target slopes. Therefore, we recommend conducting rockfall experiments to retrieve these variations before adapting rockfall monitoring by seismic technique. ",
+        "bbox": [
+            514,
+            419,
+            937,
+            708
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7ec1ad2fa939cc89cb00ece2350ea49c329c7d2eadb6c92d60f6275b7db0dd5.jpg",
+        "image_caption": [
+            "Fig. 10. Procedure for obtaining the location determination, rockal trackng, and mass estimation outcome. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            191,
+            732,
+            805,
+            915
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            749,
+            44,
+            937,
+            54
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "$J .$ -M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "12 ",
+        "bbox": [
+            494,
+            953,
+            507,
+            962
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            66,
+            484,
+            117
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Funding statement ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            132,
+            181,
+            145
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was partly supported by the National Science and Technology Council (NSTC), Taiwan (grant no. NSTC 110-2124-M-027- 001). The deployment of temporal seismic array and field survey were funded by NSTC (grant no. NSTC 110-2636-M-009-001 and NSTC 111- 2628-M-A49-003). ",
+        "bbox": [
+            62,
+            158,
+            484,
+            223
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CRediT authorship contribution statement ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            238,
+            332,
+            249
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Jui-Ming Chang: Conceptualization, Investigation, Methodology, Validation, Writing - original draft, Writing  review & editing, Visualization. Wei-An Chao: Conceptualization, Funding acquisition, Investigation, Methodology, Supervision, Writing  review & editing. Yu-Ting Kuo: Investigation, Methodology, Writing  review & editing. Che-Ming Yang: Investigation, Methodology, Writing  review & editing. Hongey Chen: Supervision, Writing  review & editing. Yu Wang: Investigation, Writing  review & editing. ",
+        "bbox": [
+            62,
+            264,
+            484,
+            369
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Declaration of Competing Interest ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            383,
+            280,
+            394
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. ",
+        "bbox": [
+            60,
+            409,
+            484,
+            448
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Data availability ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            462,
+            168,
+            474
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All data in this study are available from the corresponding author by request. All notation/parameters in this paper referred to Table S6. ",
+        "bbox": [
+            60,
+            489,
+            484,
+            514
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            528,
+            178,
+            540
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge the support from Nan'ao Branch, Fourth District Maintenance Construction Office, Directorate General of Highways, Taiwan, and Mr. Yu Hao Shen for assisting administrative processes and experiments. This research was supported by the National Science and Technology Council (NSTC). Last, we thank editor Dr. Janusz Wasowski, and two anonymous reviewers for constructive comments, which significantly improved the paper. ",
+        "bbox": [
+            62,
+            554,
+            484,
+            646
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary data ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            660,
+            278,
+            673
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at https://doi. org/10.1016/j.enggeo.2023.107211. ",
+        "bbox": [
+            60,
+            687,
+            482,
+            712
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            726,
+            131,
+            738
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Aki, K., Ferrazzini, V., 2000. Seismic monitoring and modeling of an active volcano for prediction. J. Geophys. Res. Solid Earth 105, 1661716640. https://doi.org/ 10.1029/2000JB900033.   \nl direction. Rock Mech. Rock. Eng. 49, 927994. https://doi.org/10.1007/s00603- 015-0798-7.   \nBurtin, A., Hovius, N., Milodowski, D.T., Chen, Y.G., Wu, Y.M., Lin, C.W., Chen, H., Emberson, R., Leu, P.L., 2013. Continuous catchment-scale monitoring of geomorphic processes with a 2- D seismological array. J. Geophys. Res. Earth Surf. 118, 19561974. https://doi.org/10.1002/jgrf.20137.   \nChang, J.M., Chao, W.A., Chen, H., Kuo, Y.T., Yang, C.M., 2021. Locating rock slope failures along highways and understanding their physical processes using seismic signals. Earth Surf. Dyn. 9, 505517. https://doi.org/10.5194/esurf-9-505-2021.   \nChen, G., Zheng, L., Zhang, Y., Wu, J., 2013a. Numerical simulation in rockfall analysis: a close comparison of 2-D and 3-D DDA. Rock Mech. Rock. Eng. 46, 527541. https:// doi.org/10.1007/s00603-012-0360-9.   \nChen, C.H., Chao, W.A., Wu, Y.M., Zhao, L., Chen, Y.G., Ho, W.Y., Lin, T.L., Kuo, Y.T., Chang, J.M., 2013b. A seismological study of landquakes using a real-time 10.1093/gji/ggt121.   \nDietze, M., Mohadjer, S., Turowski, J.M., Ehlers, T.A., Hovius, N., 2017. Seismic monitoring of small alpine rockfalls validity, precision and limitations. Earth Surf. Dyn. 5, 653668. https://doi.org/10.5194/esurf-5-653-2017.   \nDorren, L.K.A. 03. Arv cl mean  mllipces. . Phys. Geogr. 27, 6987. https://doi.org/10.1191/0309133303pp359ra.   \nActa Mech. 64, 101110. https://doi.org/10.1007/BF01180101.   \nFarin, M., Mangeney, A., Toussaint, R., Rosny, J.D., Shapiro, N., Dewez, T., Hibert, C., Mathon, C., Sedan, O., Berger, F., 2015. Characterization of rockfalls from seismic signal: Insights from laboratory experiments. J. Geophys. Res. Solid Earth 120, 71027137. https://doi.org/10.1002/2015JB012331.   \nFeng, L., Intrieri, E., Pazzi, V., Gigli, G., Gracchi, T., 2021. A framework for temporal and spatial rockfall early warning using micro-seismic monitoring. Landslides 18, 10591070. https://doi.org/10.1007/s10346-020-01534-z.   \nGiacomini, A., Buzzi, O., Renard, B., Giani, G.P., 2009. Experimental studies on fragmentation of rock falls on impact with rock surfaces. Int. J. Rock Mech. Min. 46, 708715. https://doi.org/10.1016/j.ijrmms.2008.09.007.   \nGiani, G.P., Migliazza, M., Segalini, A., 2004. Experimental and theoretical studies to improve rock fall analysis and protection work design. Rock Mech. Rock. Eng. 37, 369389.https://doi.org/10.1007/s00603-004-0027-2.   \nGi, . Tapi, . e-Gilé C. urach, E. Ro, . Kazrz,, Torné, M., Royána, M.J., Echeverria, A., 2019. Remote sensing and seismic data integration for the characterization of a rock slide and an artificially triggered rock fall. Eng. Geol. 257, 105113 https://doi.org/10.1016/j.enggeo.2019.04.010.   \nHel A   S (French Alps): Analysis of seismic signals and their correlation with rainfalls. J. Geophys. Res. Earth Surf. 115, F03016. https://doi.org/10.1029/2009JF001532. Mermin, E., 2017. Single-block rockfall dynamics inferred from seismic signal analysis. Earth Surf. Dyn. 5, 283292. https://doi.org/10.5194/esurf-5-283-2017.   \nH C.J.Yin H.Y. Ce C.Y. Yeh C.H.  C.L 00 produced by rock motions and debris flows. J. Geophys. Res. Earth Surf. 112, F02014. https://doi.org/10.1029/2005JF000437.   \nIannucci, R., Lenti, L., Martino, S., 2020. Seismic monitoring system for landslide hazard assessment and risk management at the drainage plant of the Peschiera Springs (Central Italy). Eng. Geol. 277, 105787 https://doi.org/10.1016/j. enggeo.2020.105787.   \n, , A. il Y. J.  F. , Chaljub, E., Boissier, P., Brunet, C., Kowalski, P., Lauret, F., Hibert, C., 2020. Simulation of topography effects on rockfall-generated seismic signals: application to Piton de la Fournaise Volcano. J. Geophys. Res. Solid Earth 125, e2020JB019874. https://doi.org/10.1029/2020JB019874.   \nLe Roy, G., Helmstetter, A., Amitrano, D., Guyoton, F., Roux-Mallouf, R.Le., 2019. Seismic analysis of the detachment and impact phases of a rockfall and application for estimating rockfall volume and free-fall height. J. Geophys. Res. Earth Surf. 124, 26022622. https://doi.org/10.1029/2019JF004999.   \nLu, G., Ringenbach, A., Caviezel, A., Sanchez, M., Christen, M., Bartelt, P., 2021. Mitigation effects of trees on rockfall hazards: Does rock shape matter? Landslides 18, 5977. https://doi.org/10.1007/s10346-020-01418-2.   \nReinwald, M., Moseley, B., Szenicer, A., Nissen-Meyer, T., Oduor, S., Vollrath, F., r A. M B. monitoring approach. J. R. Soc. Interface 18, 20210264. https://doi.org/10.1098/ rsif.2021.0264.   \nRitchie, A.M., 1963. Evaluation of rockfall and its control. Highw. Res. Rec. 17, 1328. Available at: http://onlinepubs.trb.org/Onlinepubs/hrr/1963/17/17-002.pdf. Available at:   \nSaló, L., Corominas, J., Lantada, N., Matas, G., Prades, A., Ruiz-Carulla, R., 2018. Seismic energy analysis as generated by impact and fragmentation of single-block experimental rockfalls. J. Geophys. Res. Earth Surf. 123, 78. https://doi.org/ 10.1029/2017JF004374.   \nVilajosana, I., Surinach, E., Abelán, A., Khazaradze, G., Garcia, D., Llosa, J., 2008. Rockfall induced seismic signals: case study in Montserrat, Catalonia. Nat. Hazards Earth Syst. Sci. 8, 805812. https://doi.org/10.5194/nhess-8-805-2008.   \nWalsh, B., Jolly, A.D., Procter, J., 2017. Calibrating the amplitude source location (ASL) method by using active seismic sources: an example from Te Maari volcano, Tongariro National Park, New Zealand. Geophys. Res. Lett. 44, 35913599. https:// doi.org/10.1002/2017GL073000.   \n1222. https://doi.org/10.1016/j.enggeo.2011.11.002.   \nWang, Y., Jiang, W., Cheng, S., Song, P., Mao, C., 2018. Effects of the impact angle on the coefficient of restitution in rockfall analysis based on a medium-scale laboratory test. Nat Hazard Earth Sys. 18, 30453061. https://doi.org/10.5194/nhess-18-3045- 2018.   \nWei, L.W. Chen, H., Lee, C.F. Hu W.K. Lin, M.L, Chi, C.C., Lin, H.H., 201. The mechanism of rockfall disaster: a case study from Badouzih, Keelung, in northern Taiwan. Eng. Geol. 183, 116126. https://doi.org/10.1016/j.enggeo.2014.10.008.   \nYan, Y., Li, T., Liu, J., Wang, W., Su, Q., 2019. Monitoring and early warning method for e. https://doi.org/10.1038/s41598-019-43146-1.   \nZimmer, V.L., Sitar, N., 2015. Detection and location of rock falls using seismic and infrasound sensors. Eng. Geol. 193, 4960. https://doi.org/10.1016/j. enggeo.2015.04.007. ",
+        "bbox": [
+            60,
+            750,
+            482,
+            931
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            76,
+            936,
+            923
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "Engineering Geology 323 (2023) 107211 ",
+        "bbox": [
+            749,
+            44,
+            936,
+            54
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "$J .$ -M. Chang et al. ",
+        "bbox": [
+            60,
+            44,
+            144,
+            52
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "13 ",
+        "bbox": [
+            494,
+            953,
+            507,
+            962
+        ],
+        "page_idx": 12
+    }
+]
