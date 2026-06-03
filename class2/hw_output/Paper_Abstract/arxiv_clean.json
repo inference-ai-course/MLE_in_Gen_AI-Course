@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://nhess.copernicus.org/articles/26/2319/2026/",
+    "title": "Culvert blockages in 2D-hydrodynamic flash flood modeling: quantifying the impact on flood dynamics and mitigation strategies",
+    "abstract": "Culverts play a critical role in conveying surface runoff during flash flood events, yet their failure due to blockages can significantly alter local flood dynamics, particularly in small, topographically complex catchments. Despite this, culvert blockages are often neglected in flood modeling. To address such gap, this study presents a comprehensive analysis of culvert blockages using the open-source hydrodynamic model TELEMAC-2D, applied to a flash-flood-prone catchment in central Germany. First, the study assesses recent flood events and evaluates the completeness and accuracy of official culvert datasets, identifying missing culverts. A dynamic culvert blockage module is then implemented, simulating varying degrees and timings of blockage based on water level thresholds at culvert inlets. Through a series of flood scenarios, the study identifies culverts whose blockages have a greater impact on local flood hydrographs and inundation extents, whereas their impact at the catchment scale remain small. Results highlight the importance of accurate culvert representation and present a scenario-based blockage modeling framework that can support the identification of critical infrastructure. This enables the development of targeted mitigation strategies, such as prioritized maintenance or emergency protection, ultimately reducing flood risks. The findings underscore the need to integrate culvert blockages into flash flood modeling and risk assessments and support future research into blockage formation mechanisms and improved field data acquisition.",
+    "authors": [
+      "De Vos, Leon Frederik",
+      "Mahajan, Karan",
+      "Caviedes-Voullième, Daniel",
+      "Rüther, Nils"
+    ],
+    "date": "2026-05-20"
+  },
+  {
+    "url": "https://nhess.copernicus.org/articles/26/2305/2026/",
+    "title": "A workflow to identify and monitor slow-moving landslides through spaceborne optical feature tracking",
+    "abstract": "Identifying and monitoring unstable slopes is essential for preventing both direct and cascading disasters triggered by landslides. To this end, we introduce TerraTrack, an open-source, cloud-based, end-to-end optical feature tracking tool for slow-moving landslide detection and monitoring. The tool is designed to run on the Sentinel-2 Level 1 harmonized collection. Users can define the area of interest, automatically download and pre-process Sentinel-2 data, and compute displacements using different feature tracking techniques. Outputs include a landslide binary mask, velocity maps and time series. The tool can operate entirely in the Google Colaboratory cloud environment. Hence, it removes the need for local computational resources and for a fast internet connection, avoids software conflicts, and is accessible even to those with limited experience in Python programming. We validated the workflow using displacement estimates obtained independently with other feature-tracking tools and expert landslide delineation across the Slumgullion, Chaos Canyon, and Tessina–Lamosano sites. We believe the tool is a valuable resource for the multi-hazard and landslide communities, complementing InSAR for monitoring surface motion in space and time. The tool can estimate motion shortly after the satellite imagery is acquired, making it an asset for early warning systems that rely on time of failure estimates (i.e., inverse velocity) or predictive modelling of future motion, within the limitations of satellite-based approaches. Lastly, its capacity to identify unstable slopes can guide targeted investigations into landslide dynamics, enhance situational awareness and support risk mitigation at scale.",
+    "authors": [
+      "Nava, Lorenzo",
+      "Van Wyk de Vries, Maximillian",
+      "Bell, Louie Elliot"
+    ],
+    "date": "2026-05-19"
+  }
+]
